@@ -1,1 +1,4 @@
 .env
+tokens
+tokens/top_3_boosted_tokens.csv
+tokens/token_pairs.csv
